@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Loreda';
+    src: url('/LoredaRegular.ttf') format('opentype');
+    font-weight: regular;
+    font-style: regular;
+  }
+
+  @font-face {
+    font-family: 'MaisonNeue-Bold';
+    src: url('/MaisonNeue-Bold.ttf') format('truetype');
+    font-weight: regular;
+    font-style: regular;
+  }
+
+  @font-face {
+    font-family: 'MaisonNeue-Light';
+    src: url('/MaisonNeue-Light.ttf') format('truetype');
+    font-weight: regular;
+    font-style: regular;
+  }
+
+  @font-face {
+    font-family: 'MaisonNeue-Medium'; 
+    src: url('/MaisonNeue-Medium.otf') format('truetype');
+    font-weight: regular;
+    font-style: regular;
+  }
+
+
+  
